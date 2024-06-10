@@ -1,0 +1,343 @@
+.help {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .help .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .help .view {
+    position: absolute;
+    width: 991px;
+    height: 561px;
+    top: 219px;
+    left: 465px;
+  }
+  
+  .help .view-2 {
+    position: relative;
+    height: 561px;
+  }
+  
+  .help .view-3 {
+    position: absolute;
+    width: 763px;
+    height: 81px;
+    top: 0;
+    left: 115px;
+  }
+  
+  .help .text-wrapper {
+    width: 759px;
+    top: 0;
+    left: 0;
+    color: #303030;
+    font-size: 35px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .help .p {
+    top: 58px;
+    left: 226px;
+    color: #71717a;
+    font-size: 15px;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .help .div-2 {
+    position: absolute;
+    width: 991px;
+    height: 429px;
+    top: 132px;
+    left: 0;
+  }
+  
+  .help .overlap-group-wrapper {
+    position: absolute;
+    width: 992px;
+    height: 55px;
+    top: 374px;
+    left: 0;
+  }
+  
+  .help .overlap-group {
+    position: relative;
+    width: 990px;
+    height: 55px;
+    background-color: #ffffff80;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 1px 1px 10px #766e6e8c;
+  }
+  
+  .help .text-wrapper-2 {
+    width: 184px;
+    height: 10px;
+    top: 21px;
+    left: 402px;
+    color: #71717a;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .help .overlap-wrapper {
+    position: absolute;
+    width: 992px;
+    height: 259px;
+    top: 85px;
+    left: 0;
+  }
+  
+  .help .overlap {
+    position: relative;
+    width: 990px;
+    height: 259px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 1px 1px 10px #766e6e8c;
+  }
+  
+  .help .text-wrapper-3 {
+    width: 140px;
+    top: 19px;
+    left: 19px;
+    color: #71717a;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .help .div-wrapper {
+    position: absolute;
+    width: 394px;
+    height: 50px;
+    top: 0;
+    left: 599px;
+  }
+  
+  .help .overlap-2 {
+    position: relative;
+    width: 392px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 1px 1px 10px #766e6e8c;
+  }
+  
+  .help .text-wrapper-4 {
+    width: 146px;
+    height: 10px;
+    top: 19px;
+    left: 19px;
+    color: #71717a;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .help .overlap-wrapper-2 {
+    position: absolute;
+    width: 391px;
+    height: 50px;
+    top: 0;
+    left: 0;
+  }
+  
+  .help .overlap-3 {
+    position: relative;
+    width: 389px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 1px 1px 10px #766e6e8c;
+  }
+  
+  .help .text-wrapper-5 {
+    width: 96px;
+    height: 11px;
+    top: 19px;
+    left: 19px;
+    color: #71717a;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .help .overlap-4 {
+    position: absolute;
+    width: 1660px;
+    height: 78px;
+    top: 52px;
+    left: 130px;
+  }
+  
+  .help .view-4 {
+    position: absolute;
+    width: 1660px;
+    height: 78px;
+    top: 0;
+    left: 0;
+  }
+  
+  .help .fitnes-area {
+    position: absolute;
+    width: 280px;
+    height: 78px;
+    top: 0;
+    left: 0;
+  }
+  
+  .help .overlap-group-2 {
+    background-image: url(./img/bg.svg);
+    position: absolute;
+    width: 84px;
+    height: 87px;
+    top: -7px;
+    left: -7px;
+    background-size: 100% 100%;
+  }
+  
+  .help .text-wrapper-6 {
+    position: absolute;
+    top: 27px;
+    left: 26px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .help .text-wrapper-7 {
+    position: absolute;
+    top: 23px;
+    left: 100px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 800;
+    color: #303030;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .help .navbar {
+    position: absolute;
+    width: 380px;
+    height: 37px;
+    top: 25px;
+    left: 1288px;
+  }
+  
+  .help .home {
+    left: 0;
+    font-weight: 700;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat", Helvetica;
+    color: #303030;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .help .information {
+    left: 89px;
+    font-weight: 400;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat", Helvetica;
+    color: #303030;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .help .contact {
+    left: 195px;
+    font-weight: 400;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat", Helvetica;
+    color: #303030;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .help .support {
+    left: 281px;
+    font-weight: 400;
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat", Helvetica;
+    color: #303030;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .help .line {
+    position: absolute;
+    width: 62px;
+    height: 1px;
+    top: 36px;
+    left: 1px;
+    object-fit: cover;
+  }
+  
+  .help .overlap-group-3 {
+    background-image: url(./img/bg-1.svg);
+    position: absolute;
+    width: 84px;
+    height: 87px;
+    top: -7px;
+    left: -7px;
+    background-size: 100% 100%;
+  }
